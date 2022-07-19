@@ -1,4 +1,4 @@
-[![MasterHead](https://i.postimg.cc/x1XJgDg4/3qMg.gif)](https://github.com/jivnshet)
+[![MasterHead](https://i.postimg.cc/sX3m8gMc/ezgif-1-7927fb71f2.gif)](https://github.com/jivnshet)
 <h1 align="center">Hi 👋, I'm Jivn Shet</h1>
 <h3 align="center">An enthusiastic Web3 developer from India</h3>
 <img align="right" width="400" src="https://i.postimg.cc/R0KCYPc9/image.gif" alt="JivnShetCoding" />
