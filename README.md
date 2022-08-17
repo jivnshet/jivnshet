@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **Frontend Platforms**
 
-- 🌱 I’m currently learning **Flutter, DeFi**
+- 🌱 I’m currently learning **Flutter, MERN**
 
 - 👯 I’m looking to collaborate on **interesting projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jivnshet](https://github.com/jivnshet)
 
-- 💬 Ask me about **Solidity, React**
+- 💬 Ask me about **JavaScript, React**
 
 - 📫 Reach me at **jivnshet@gmail.com**
 
