@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Solidity, React**
 
-- 📫 How to reach me **jivnshet@gmail.com**
+- 📫 Reach me at **jivnshet@gmail.com**
 
 - ⚡ Fun fact **Get me a Pizza, we can be friends!**
 
