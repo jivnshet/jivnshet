@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **interesting projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jivnshet](https://github.com/jivnshet)
+- 👨‍💻 All of my projects are available at [https://github.com/jivnshet?tab=repositories](https://github.com/jivnshet?tab=repositories)
 
 - 💬 Ask me about **JavaScript, React**
 
