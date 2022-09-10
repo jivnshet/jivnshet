@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Frontend Platforms**
 
-- 🌱 I’m currently learning **Flutter, MERN**
+- 🌱 I’m currently learning **Blockchain and Metaverse**
 
 - 👯 I’m looking to collaborate on **interesting projects**
 
